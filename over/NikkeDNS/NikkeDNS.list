@@ -11,5 +11,5 @@ HOST,hmt-match.nikke-kr.com,NikkeDNS1
 HOST,aws-na.intlgame.com,NikkeDNS1
 HOST,cloud.nikke-kr.com,NikkeDNS2
 HOST,nikke-en.com,NikkeDNS2
-IP-CIDR,43.155.96.21,NikkeDNS1
-IP-CIDR,128.1.102.212,NikkeDNS2
+IP-CIDR,43.155.96.21/32,NikkeDNS1
+IP-CIDR,128.1.102.212/32,NikkeDNS2
