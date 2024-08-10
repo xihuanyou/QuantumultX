@@ -1,0 +1,16 @@
+# NAME: Riot
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+HOST-SUFFIX,playvalorant.com,Riot
+HOST-SUFFIX,riot-games.com,Riot
+HOST-SUFFIX,riot.com,Riot
+HOST-SUFFIX,riot.net,Riot
+HOST-SUFFIX,riotcdn.net,Riot
+HOST-SUFFIX,riotforgegames.com,Riot
+HOST-SUFFIX,riotgames.co.kr,Riot
+HOST-SUFFIX,riotgames.com,Riot
+HOST-SUFFIX,riotgames.info,Riot
+HOST-SUFFIX,riotgames.jp,Riot
+HOST-SUFFIX,riotgames.net,Riot
+HOST-SUFFIX,riotgames.tv,Riot
+HOST-SUFFIX,riotgames.zendesk.com,Riot
